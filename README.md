@@ -1,2 +1,5 @@
-# DCS
-Daegu Chicken System
+# DCS (Daegu Chicken System)
+
+```
+
+```
