@@ -1,4 +1,6 @@
-# DCS (Daegu Chicken System)
+# DCS
+
+> Daegu Chicken System
 
 ```
 1. npm install
